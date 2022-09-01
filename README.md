@@ -6,3 +6,7 @@
   - 프로그래머스: https://programmers.co.kr/
   - 코드업: https://www.codeup.kr/
   - SW Expert Academy: https://swexpertacademy.com/main/main.do
+
+============================================================================================
+- LEARN: SW Expert Academy
+  - Computational Thinking > Programming - Beginner > Intermediate > Advanced > Professional
