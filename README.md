@@ -8,5 +8,5 @@
   - SW Expert Academy: https://swexpertacademy.com/main/main.do
 
 ---
-- LEARN: SW Expert Academy
+- SW Expert Academy LEARN: https://swexpertacademy.com/main/learn/course/courseList.do
   - Computational Thinking > Programming - Beginner > Intermediate > Advanced > Professional
